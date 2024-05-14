@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola amigos!👋
 
 <!--
 **RCortesCastrillo/RCortesCastrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-"Ingeniero Industrial con una pasión por la programación. Mi transición al mundo de la programación fue más que un cambio de carrera; fue un viaje de autodescubrimiento y superación personal. Al enfrentarme al desafío de un bootcamp de Full Stack Development en Henry, me sumergí en un océano de nuevos conocimientos y desafíos que pusieron a prueba mi determinación y resistencia. En cada línea de código escrita, descubrí el mayor superpoder que tiene el hombre: el aprendizaje.
+"Soy Ingeniero Industrial con una pasión por la programación. Mi transición al mundo de la programación fue más que un cambio de carrera; fue un viaje de autodescubrimiento y superación personal. Al enfrentarme al desafío de un bootcamp de Full Stack Development en Henry, me sumergí en un océano de nuevos conocimientos y desafíos que pusieron a prueba mi determinación y resistencia. En cada línea de código escrita, descubrí el mayor superpoder que tiene el hombre: el aprendizaje.
 
  Durante este viaje, aprendí cómo superar los límites autoimpuestos y que la verdadera fuerza no radica en la inteligencia innata, sino en la persistencia y la voluntad de enfrentar los desafíos con valentía y determinación. Este viaje me enseñó que el éxito no es solo el resultado de habilidades técnicas, sino también de pasión, dedicación y perseverancia. 
 
